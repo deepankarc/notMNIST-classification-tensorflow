@@ -1,11 +1,11 @@
 # Tensorflow Tutorial
 Implementation of architectures for classification of notMNIST using:  
 
-[x] Linear Regression  
-[x] Fully-Connected Neural Network  
-[x] Fully-Connected Neural Network with L2 regularization  
-[x] Convolutional Neural Network  
+ [x] Linear Regression  
+ [x] Fully-Connected Neural Network  
+ [x] Fully-Connected Neural Network with L2 regularization  
+ [x] Convolutional Neural Network  
 
 TODO:  
-[x] Implement Skip Gram Model for word embeddings.  
-[] Implement CBOW Model for word embeddings.
+ [x] Implement Skip Gram Model for word embeddings.  
+ [ ] Implement CBOW Model for word embeddings.
